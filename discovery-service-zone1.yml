@@ -6,9 +6,9 @@ eureka:
     hostname: localhost
     metadataMap:
       zone: zone1
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:8762/eureka
+  # client:
+    # serviceUrl:
+      # defaultZone: http://localhost:8762/eureka
 
 server:
   port: ${PORT:8761}
