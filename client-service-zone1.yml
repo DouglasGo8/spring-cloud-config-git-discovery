@@ -14,7 +14,7 @@ sample:
   string:
     property: Client Application
   int:
-    property: 3
+    property: 2
 
 management:
   security:
