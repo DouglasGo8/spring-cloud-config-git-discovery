@@ -9,3 +9,9 @@ eureka:
 
 server:
   port: ${PORT:8081}
+  
+sample:
+  string:
+    property: Client Application
+  int:
+    property: 3
