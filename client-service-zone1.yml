@@ -15,3 +15,7 @@ sample:
     property: Client Application
   int:
     property: 3
+
+management:
+  security:
+    enabled: false
